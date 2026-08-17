@@ -1,0 +1,6 @@
+{
+  "name": "Paisalo Voice Assistant",
+  "description": "Paisalo Digital AI Voice Support Executive providing continuous voice assistance for loans, eligibility, customer support, and co-lending info.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
